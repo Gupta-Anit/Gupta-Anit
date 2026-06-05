@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=700&lines=Streaming+Data+Pipelines+at+Scale+%F0%9F%9A%80;Kafka+%7C+Spark+%7C+BigQuery+%7C+Airflow;Real-Time+Analytics+%26+ML+Platforms;GenAI+%26+Agentic+Data+Systems;F1+Marshal+%F0%9F%8F%81+%7C+Photographer+%F0%9F%93%B7" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anitgupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anit-gupta/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gupta-Anit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anitg.4@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Fort_Lauderdale,_FL-4285F4?style=for-the-badge)](https://github.com/Gupta-Anit)
@@ -160,7 +160,7 @@ I'm always open to conversations around:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anitg.4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anitgupta)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anit-gupta/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gupta-Anit)
 
 ---
