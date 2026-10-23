@@ -102,10 +102,13 @@ flowchart LR
 
 ---
 
-## More work
+## More projects
 
 | Project | What it shows |
 |---|---|
+| 🎯 [attribution-lab](https://github.com/Gupta-Anit/attribution-lab) | Clickstream sessionization and **six attribution models** side by side (first, last, linear, time-decay, position-based, Markov chain) on DuckDB, with live-event promo campaigns |
+| 📈 [mmm-input-pipeline](https://github.com/Gupta-Anit/mmm-input-pipeline) | Messy ad-platform exports to **model-ready MMM inputs**: data contracts, idempotent loads, invoice reconciliation, adstock and saturation features |
+| 🚨 [dq-sentinel](https://github.com/Gupta-Anit/dq-sentinel) | **Data quality anomaly detection** with same-weekday robust baselines and root-cause ranking by dimension; Slack-ready alerts |
 | 🌞 [SolarWind_Prediction](https://github.com/Gupta-Anit/SolarWind_Prediction) | ConvLSTM deep learning on heliospheric simulation data (Predictive Science Inc.). Reached **94% structural similarity**, beating the physics-simulation baseline; served via a real-time inference API on AWS SageMaker |
 | 🛒 [HackGT 2019: Predictive Analytics for Store Managers](https://github.com/Gupta-Anit/Predictive-Analytical-tools-for-Store-Managers--HackGT-2019) | Time-series sales forecasting on real-time NCR retail data, **89% accuracy** |
 | 📚 [LSTM Text Summarizer](https://github.com/Gupta-Anit/LSTM-TEXT-SUMMARIZER) | Sequence-to-sequence LSTM with attention for abstractive summarization |
