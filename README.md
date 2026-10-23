@@ -119,8 +119,8 @@ flowchart LR
 |---|---|---|
 | 2023 to now | **Senior Data Engineer** | Paramount (Paramount+) |
 | 2021 to 2023 | Data Engineer | Paramount |
-| 2020 to 2021 | Data Scientist | Predictive Science Inc. |
-| 2016 to 2019 | Data Analyst | Amdocs |
+| 2020 to 2021 | Data Science Researcher | Predictive Science Inc. / Georgia State Data Mining Lab |
+| 2016 to 2019 | Associate Software Developer, then Data Analyst | Amdocs |
 
 **Education:** M.S. Data Science & Analytics, Georgia State University (4.0 GPA) · MBA in Data-Driven Decision Making, Westcliff University (in progress) · B.Tech, Punjab Technical University
 
